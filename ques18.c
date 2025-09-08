@@ -1,7 +1,4 @@
-/*NAME                                         : Rishita Ramola
-UNIVERSITY ROLL NO.                            : 24022360
-SECTION                                        : B
-
+/*
 Question 18:
 Write a function to sort an array of integers using any sorting technique.*/
 #include <stdio.h>
@@ -90,4 +87,5 @@ int main()
             printf("Invalid choice! Please choose again.\n");
     }
     return 0;
+
 }
