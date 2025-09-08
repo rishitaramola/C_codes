@@ -1,7 +1,4 @@
-/*NAME                                         : Rishita Ramola
-UNIVERSITY ROLL NO.                            : 24022360
-SECTION                                        : B
-
+/*
 Question 15:
 Write a menu driven program to perform the following operations on a given number(integer) based 
 upon the given choices from (1 to 4). 
@@ -72,4 +69,5 @@ int main()
         }
     }
     return 0;
+
 }
