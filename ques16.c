@@ -1,7 +1,4 @@
-/*NAME                                         : Rishita Ramola
-UNIVERSITY ROLL NO.                            : 24022360
-SECTION                                        : B
-
+/*
 Question 16:
 Develop a program to store age of n students in a class using array. Calculate the average age and find 
 the count of all the students above and below the average age. Print the higher count with an 
@@ -48,4 +45,5 @@ void main()
         printf("The higher count is of the students below the average age that is: %d\n",be);
     else
         printf("The count of the students above and below is equal and is: %d\n", ab);
+
 }
